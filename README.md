@@ -19,6 +19,6 @@
 - Palau Soil Survey Manuscript: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/palauCD.pdf)
 
 ## Afghanistan
-- Soil Survey Horizons: Soil Sampling in Afghanistan: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/Afghanistanarticle_02222010.pdf
+- Soil Survey Horizons: Soil Sampling in Afghanistan: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/Afghanistanarticle_02222010.pdf)
 - Soil Survey Investigation Report - Afghanistan: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/SSIR_%20Soils%20Afghanistan_2018%20.pdf)
   
