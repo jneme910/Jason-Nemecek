@@ -20,8 +20,8 @@
 - 2020 Wisconsin Cooperative Soil Survey Highlights: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/Cooperative_Soil_Science_2020_WEB.pdf)
 
 ## Dynamic Soils Hub
-- Dynamic Soils Hub Roadmap: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/Dynamic%20Soil%20Properties%20(DSP)%20Hub%20Epics%20and%2012-Month%20Roadmap.pdf)
-- Dynamic Soils Hub Overview:  [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/Dynamic%20Soils%20Hub%20Overview.pptx)
+- Dynamic Soils Hub Roadmap: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/documents/Dynamic%20Soil%20Properties%20(DSP)%20Hub%20Epics%20and%2012-Month%20Roadmap.pdf)
+- Dynamic Soils Hub Overview:  [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/documents/Dynamic%20Soils%20Hub%20Overview.pptx)
   
 ## Republic of Palau Soil Survey
 - Palau Soil Survey Manuscript: [Click here](https://github.com/jneme910/Jason-Nemecek/blob/master/publications/palauCD.pdf)
